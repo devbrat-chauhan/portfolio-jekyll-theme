@@ -6,14 +6,14 @@ permalink: /about
 
 # Devbrat's Portfolio
 
-Name: Devbrat Chauhan 
-Location: Brighton, United Kingdom 
-Education: Bachelor in Information Technology 
-Industry: Life Sciences 
-Recent projects: Dementia Research 
-Goals: Become Data Scientist
-Professional: Join AWS
-Personal interests: Playing Cricket
+# Name: Devbrat Chauhan 
+# Location: Brighton, United Kingdom 
+# Education: Bachelor in Information Technology 
+# Industry: Life Sciences 
+# Recent projects: Dementia Research 
+# Goals: Become Data Scientist
+# Professional: Join AWS
+# Personal interests: Playing Cricket
 
 Isn't it great.
 
